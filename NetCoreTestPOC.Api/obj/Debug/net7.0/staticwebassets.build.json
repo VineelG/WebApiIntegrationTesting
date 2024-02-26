@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CuYJIZT2PWxbr3yKcEedCKGCit+1JxKZT2BoqVJrKCI=",
+  "Source": "IntegrationTestingPOC.Api",
+  "BasePath": "_content/IntegrationTestingPOC.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
